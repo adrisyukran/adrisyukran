@@ -2,8 +2,6 @@
 
 ### A continuous learner developer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrisyukran&label=Profile views&color=0e75b6&style=flat" alt="adrisyukran" /> </p>
-
 - 🔭 I'm currently working on **multiple LLMs, RAGs, Agentic and Automation and multiple other unreleased projects**
 
 - 🌱 I'm currently learning **PyTorch, Tensorflow, Scikit-learn, OpenAI and any other AI Development. I'm so into AI right now!**
